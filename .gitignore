@@ -1,0 +1,28 @@
+# Build artifacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio
+*.sln
+*.vcxproj*
+*.vcxproj.filters
+*.user
+
+# Object files and binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# Editor directories
+.vscode/
+.idea/
+
+# Misc
+*.log
+*.tmp
